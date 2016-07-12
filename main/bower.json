@@ -1,0 +1,17 @@
+{
+  "name": "bower-submodule-test-vshar",
+  "main": "index.js",
+  "homepage": "https://github.com/sharikovvladislav/bower-submodule-test-vshar",
+  "authors": [
+    "Sharikov Vladislav <sharikov.vladislav@gmail.com>"
+  ],
+  "description": "",
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
